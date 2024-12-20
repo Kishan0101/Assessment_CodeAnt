@@ -3,7 +3,7 @@
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/kishan0101/Assessment_CodeAnt.git
-   cd CodeAntAi
+   cd Assessment_CodeAnt
    ```  
 
 2. **Install dependencies**:  
